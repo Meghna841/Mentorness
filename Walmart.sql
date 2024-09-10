@@ -1,5 +1,5 @@
 use walmart;
-SELECT * FROM WALMARTData;
+SELECT * FROM WalmartData;
 
 SELECT * FROM WalmartData
 WHERE Branch = 'A';
